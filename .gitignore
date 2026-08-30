@@ -39,7 +39,5 @@ build/
 .DS_Store
 
 =======
-# files .idea/
->>>>>>> feature/crop-model
-
+### .idea ### (New)
 .idea/
