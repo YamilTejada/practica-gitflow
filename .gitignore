@@ -38,6 +38,8 @@ build/
 ### Mac OS ###
 .DS_Store
 
-### .idea ###
+=======
+# files .idea/
+>>>>>>> feature/crop-model
 
 .idea/
